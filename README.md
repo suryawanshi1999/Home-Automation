@@ -18,4 +18,9 @@ THINGS TO BE REQUIRED :-
 
 Note>**** Things you have to do by our own:Intall arduino ide ,blynk and nodemcu library
 
+1.We are able to control the Bulb ON/OFF through the Blynk app where we are made one button or we can use simple text phrases like       "Bulb On or Bulb Off" to our google assisant.
+2.Similarly apply for Parking Garage OPEN/CLOSE (here I use Mini Servo).
+3.We are getting the all the readings of humidity and temperature every second on our blynk app and also alert through message 
+  if humidity or temperature exceed by its defined threshold value.
+4.Simlarly for Motion Detector(PIR) also sent an alert message if someone comes in it's path (some intruder).
 
