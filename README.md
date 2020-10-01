@@ -13,7 +13,7 @@ THINGS TO BE REQUIRED :-
 4)Smart Phone
 5)Bread Board and Jumper Wires
 6)Holder,BULB(working on 220),Electrical Wire
-7)Relay Channel (Here I use 2 channel)
+7)Any Relay Channel (Here I use 2 channel)
 8)Mini Servo Motor
 
 Note>**** Things you have to do by our own:Intall arduino ide ,blynk and nodemcu library
